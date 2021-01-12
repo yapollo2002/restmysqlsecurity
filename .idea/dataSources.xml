@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="acounting@localhost" uuid="eccdca6f-26cf-47a6-91fa-b7a047ae33b7">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/acounting</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="acounting@localhost [2]" uuid="692d651e-88ad-4b74-8093-9614670ea97d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/acounting</jdbc-url>
+    </data-source>
+  </component>
+</project>
